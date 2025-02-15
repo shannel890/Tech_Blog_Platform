@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+body{
+    background-color: brown;
+    font-family: fantasy;
+    line-height: 1.6;
+}
+header{
+    background-color: cornsilk;
+    padding: 30px;
+    
+} 
+.nav-link{
+    text-decoration: none;
+}
+.nav-list{
+    list-style: none;
+    display: flex;
+   gap: 2rem;
+   text-decoration: solid;
+    
+    
+}
+#paragraph{
+    color:black;
+    font-size: 2rem;
+    padding: 10px;
+    margin: 10px;
+}
+.par{
+    color:purple;
+    font-size: 2rem;
+    padding: 10px;
+    margin: 10px;
+}
+p{
+    color:yellow ;
+    font-size: 1.5rem;
+    padding: 10px;
+    margin: 10px;
+}
